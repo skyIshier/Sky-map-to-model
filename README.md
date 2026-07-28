@@ -1,6 +1,6 @@
 # Sky Map to 3D Model Converter
 
-[中文](./README-zh.md) | [English](./README.md)
+[中文](./README.md) | [English](./README-en.md)
 
 A complete Python tool to convert Sky: Children of the Light map data (`.meshes` + `Objects.level.bin`) into 3D models (GLB/OBJ) with marker points as colored spheres.
 
