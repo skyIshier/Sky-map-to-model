@@ -1,6 +1,6 @@
 # Sky 地图转 3D 模型工具
 
-[中文](./README-zh.md) | [English](./README.md)
+[中文](./README.md) | [English](./README-en.md)
 
 一个完整的 Python 工具，用于将光·遇游戏的地图数据（`.meshes` + `Objects.level.bin`）转换为 3D 模型（GLB/OBJ），并将标记点生成为彩色小球。
 
