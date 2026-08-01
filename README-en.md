@@ -59,6 +59,19 @@ For each map, the tool produces:
 - Marker point spheres have a fixed radius of 0.5 units and 8 segments; you can adjust these values inside the script.
 - If you only need the terrain model, you can disable marker export when prompted.
 
-## License
+## 📄 License
 
-This tool is provided as-is for educational and archival purposes.
+This toolkit uses a **Custom License**. In short:
+
+| Action | Allowed? |
+|--------|----------|
+| Personal learning and research | ✅ Yes |
+| Non-commercial modification | ✅ Yes |
+| Free distribution (keep intact) | ✅ Yes |
+| Commercial use (selling, charging) | ❌ No |
+| Reselling or redistribution for profit | ❌ No |
+| Removing copyright notices | ❌ No |
+
+**For commercial licensing, contact:** 3787533101@qq.com
+
+See the full `LICENSE` file for details.
